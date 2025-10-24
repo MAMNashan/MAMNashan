@@ -7,11 +7,20 @@
 <h3 align="center">💻 Web Developer | Frontend Developer | UI/UX Designer</h3>
 
 <p align="center">
-  <a href="mailto:mnashan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mnashan.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/muhammed-nashan"><img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Nashan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/MAMNashan"><img src="https://img.shields.io/badge/GitHub-MuhammedNashan-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://your-portfolio-Nashan.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:mnashan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mnashan.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-nashan">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Nashan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/MAMNashan">
+    <img src="https://img.shields.io/badge/GitHub-MAMNashan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://your-portfolio-Nashan.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
+
 
 ---
 
@@ -29,7 +38,7 @@ A passionate **Web Developer & UI/UX Designer**, skilled in crafting **responsiv
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react.js,nextjs,nodejs,express,reactnative,tailwind,mongodb,mysql,html,css,figma,xd,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,mysql,html,css,figma,xd,vscode,git" />
 </p>
 
 ---
@@ -67,11 +76,6 @@ Trip and booking management system with CRUD operations and MySQL data persisten
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAMNashan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MAMNashan&theme=tokyonight&hide_border=true" width="49%">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAMNashan&layout=compact&theme=tokyonight&hide_border=true" width="60%">
 </p>
 
@@ -84,7 +88,7 @@ Trip and booking management system with CRUD operations and MySQL data persisten
   <a href="mailto:mnashan.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/></a>
   <a href="https://github.com/MAMNashan"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
   <a href="https://www.instagram.com/muhammed_nazhan"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/Muhammed Nazhan"><img src="https://img.icons8.com/fluency/48/facebook.png" alt="Facebook"/></a>
+  <a href="https://web.facebook.com/muhammed.nazam"><img src="https://img.icons8.com/fluency/48/facebook.png" alt="Facebook"/></a>
 </p>
 
 ---
